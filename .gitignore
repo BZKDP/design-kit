@@ -1,0 +1,12 @@
+node_modules/
+dist/
+build/
+.vite/
+.env
+.env.*
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
